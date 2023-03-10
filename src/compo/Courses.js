@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function Courses() {
   return (
     <div className="mcontainer">
-        <h1>Home Componant</h1>
+        <h1>Courses</h1>
     </div>
   )
 }
 
-export default Home
+export default Courses

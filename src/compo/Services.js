@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function Services() {
   return (
     <div className="mcontainer">
-        <h1>Home Componant</h1>
+        <h1>Services</h1>
     </div>
   )
 }
 
-export default Home
+export default Services
