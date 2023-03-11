@@ -6,6 +6,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 5px solid cyan;
+    border: 5px solid rgb(0, 13, 255);
     height: 100vh;
+}
+
+.NavLink{
+    cursor:pointer;
+    padding-left: 5%;
+    border-bottom: 0%;
 }
